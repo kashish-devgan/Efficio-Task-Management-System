@@ -45,5 +45,6 @@ Expected Behaviour:
 link to Live Project: https://efficio-task-management-system.vercel.app/
 
 # Author
-LinkedIn: [Kashish Devgan](www.linkedin.com/in/kashish-devgan-286b93271)
+-LinkedIn: [Kashish Devgan](www.linkedin.com/in/kashish-devgan)
+-LinkedIn: [Sneh Sharma](http://www.linkedin.com/in/sneh-sharma)
 
